@@ -1,3 +1,8 @@
+# Copyright (c) 2020 Microsoft
+# 
+# This software is released under the MIT License.
+# https://opensource.org/licenses/MIT
+
 # Pull in Libaries
 import json
 import pickle
